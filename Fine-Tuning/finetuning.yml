@@ -1,4 +1,4 @@
-name: /finetuning
+name: protTrans-finetuning
 channels:
   - pytorch
   - nvidia
@@ -306,4 +306,4 @@ dependencies:
       - uri-template==1.2.0
       - webcolors==1.12
       - xxhash==3.2.0
-prefix: /finetuning
+prefix: /scratch/users/anup/miniconda3/envs/protTrans-finetuning
